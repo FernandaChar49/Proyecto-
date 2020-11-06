@@ -1,0 +1,12 @@
+	ORG $800
+	NOP
+	INX
+	DEX
+	INY
+	DEY
+	mul
+	XGDX
+	XGDY
+	NEGA
+	NEGB
+	END
